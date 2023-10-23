@@ -1,4 +1,4 @@
-# Seu Projeto Next.js
+# Perfil em Next.js
 
 ## Sobre o Projeto
 
