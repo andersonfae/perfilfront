@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Seu Projeto Next.js
 
-## Getting Started
+## Sobre o Projeto
 
-First, run the development server:
+Este é um projeto baseado em Next.js que inclui um guia simples para configurar e iniciar o projeto. O design foi criado no Figma e você pode ver as imagens do projeto na seção abaixo.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Design no Figma
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O design deste projeto foi desenvolvido no Figma. Você pode visualizar o design nas seguintes imagens:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Figma Design 1](/public/figma.jpg)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Figma Design 2](/public/figma2.jpg)
 
-## Learn More
+## Como Iniciar o Projeto
 
-To learn more about Next.js, take a look at the following resources:
+Para executar este projeto em sua máquina local, siga estas etapas:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone o Repositório:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   git clone https://github.com/seu-usuario/seu-projeto.git
+   cd perfil
 
-## Deploy on Vercel
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Instale as dependencias:**
+   npm install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. **Rode a aplicação:**
+   npx next
